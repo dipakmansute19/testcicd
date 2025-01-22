@@ -206,3 +206,7 @@ endif;
 add_action( 'init', 'twentytwentyfour_pattern_categories' );
 
 /*----------changes---------*/
+
+
+
+/*--------END-changes-------*/ 
